@@ -6,6 +6,9 @@ int definir_tamMemoria(int tamMemoria){
     cin >> tamMemoria;
     int *pont = new int[tamMemoria]; // Colocamos um ponteiro no inicio da memória dinâmica
 }
+
+
+
 int main()
 {
 
